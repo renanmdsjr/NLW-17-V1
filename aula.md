@@ -23,12 +23,34 @@ Processar os dados (manipular, alterar, gerenciar...)
 Apresentar os dados
 
 ## Escopo e variável
+- [x] Variáveis globais e locais
+- [x] Constantes
 
 ## Tipos de dados: 
 
-Strings (textos): "" '' `` | (exemplo: console.log("hello world!");)
-Number: 2 1.4 | (exemplo: console.log(2);)
-Function: 
+- [x] Strings (textos): "" '' `` | (exemplo: console.log("hello world!");)
+- [x] Number: 2 1.4 | (exemplo: console.log(2);)
+- [x] Boolean: true, false
 
 ## Operadores
-operadores de atribução de valor
+
+- [x] Operadores de atribução de valor
+- [x] Operador de concatenação
+
+## Estruturas de dados
+
+### arrays:
+
+- [x] Uma lista que contém qualquer tipo de dado
+
+### Objetos:
+
+- [x] Atribuição e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedade de objetos
+
+### Function
+
+- [x] criar, passar argumento
+- [x] Executar
+- [x] arrow function / named function
