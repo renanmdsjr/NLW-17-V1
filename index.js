@@ -19,6 +19,8 @@ console.log(metas[1] + metas[0] + " " + metas[2] + " " + metas[3] + " " + metas[
 // AULA 03
 
 // arrays, objetos
+// Vídeo 2 = voltaremos
+/*
 let meta = {
    value: 'ler um livro por mês',
    checked: true,
@@ -33,9 +35,40 @@ let metas = [
 ]
 
 console.log(metas[1].value)
-
+*/
 // arrow function
 // const criarMeta = () => {}
 
 // function 
 // function criarMeta() {}
+
+/* const start = () => {
+   let count = 1
+   while(count <= 10){
+      console.log(count)
+      count ++
+      
+   }
+}
+
+start() */
+
+const start = () => {
+
+   while(true){
+      let opcao = "Sair"
+      switch(opcao) {
+         case "Cadastrar":
+            console.log("Vamos cadastrar")
+            break
+         case "Listar":
+            console.log("Vamos listar")
+            break
+         case "Sair":
+            return
+      }
+      
+   }
+}
+
+start() 
