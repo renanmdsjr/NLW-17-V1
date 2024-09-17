@@ -8,7 +8,7 @@
 
  ## Peças de uma linguagem 
 
-- [x] Comentários
+- Comentários
 - Declarações de variáveis (Const, let)
 - Operadores (atribuição, concatenação, metemáticos, lógicos )
 - Tipos de dados (string, number, boolean)
