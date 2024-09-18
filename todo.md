@@ -6,3 +6,4 @@
 - Remover metas 
 - Sistemas de mensagem
 - persistir dados
+- Conclusão
